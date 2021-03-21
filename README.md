@@ -32,7 +32,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gadgil/)](https://www.linkedin.com/in/abhinav-gadgil-05616719a/) [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@abhigadgil15)](https://medium.com/@abhigadgil15) [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abhigadgil15@gmail.com)](mailto:abhigadgil15@gmail.com)
 =======
 =======
->>>>>>> a6c79c2c22d968b666441dd5a3cf8c21a4aaca3f
+
 <!--
 **Abhigadgil15/Abhigadgil15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
