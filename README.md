@@ -1,21 +1,5 @@
  ### Hi there, I'm Abhinav ! <img src="https://raw.githubusercontent.com/Abhigadgil15/Abhigadgil15/master/assets/hi.gif" width=35 height=35>
 
-<img align="right" alt="Coder GIF" height=370 width=420 src="https://raw.githubusercontent.com/Abhigadgil15/Abhigadgil15/master/assets/developer-dribbble.gif" />
-
-<p>
-  <em>
-    I am a 4th Year undergraduate from <a href="https://vitbhopal.ac.in/"><b> Vellore Institute of Technology </b> ,Bhopal</a> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/developer.gif" width=35 height=25> and a budding <b>Software Developer</b> and a <b>Data Science</b> 📈 Enthusiast,  who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a platform to <b>grow</b> and excel.<img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/medal.gif" width=20 height=20> 
-  </em>
-</p>
-<em>  
-  <b>Talking about Personal Stuffs:</b>
-
-- 👨🏻‍💻 I’m adept in <b>Data Analysis</b>
-- 🌱 I’m currently learning <b>Computer Vision 🤖</b>
-- 🔭 I'm interested in Computer Vision 🤖, Deep Learning🧠 and Reading Tech Articles 📄, etc
-- 💬 Ask me about <b> Anything and Everything</b> related to Machine Learning. Happy to help you!!
-- ⚡ Fun fact: Love Working and Learning various upcoming new Tech 💻
-
 </em>
 
 ### Worked with
